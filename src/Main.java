@@ -1,6 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        Pat.pat1();
+        Pat.pat_2();
     }
 }
